@@ -1,25 +1,26 @@
-# کمپین ارسال ایمیل پس گرفتن دعوت از نایاک
+# کمپین ارسال ایمیل به نمایندگان پارلمان اروپا
 
-با کلیک روی یکی از گزینه‌های زیر، اپلیکیشن ایمیل شما (Gmail، Apple Mail و …)
+این کمپین برای خطاب قرار دادن آن دسته از نمایندگان پارلمان اروپا است که  
+به **قرار گرفتن سپاه پاسداران انقلاب اسلامی (IRGC) در لیست سازمان‌های تروریستی** رأی مخالف داده‌اند.
+
+با کلیک روی لینک زیر، اپلیکیشن ایمیل شما (Gmail، Apple Mail و …)  
 با یک متن آماده باز می‌شود.  
 فقط کافی است دکمه **Send** را بزنید.
 
-⚠️ برای کاهش احتمال اسپم شدن، لطفاً **فقط یکی از گزینه‌ها** را انتخاب و ارسال کنید.
+---
+
+## ✉️ ارسال ایمیل (یک کلیک)
+
+[📧 کلیک کنید برای ارسال ایمیل](mailto:thomas.geisel@europarl.europa.eu,tomasz.buczek@europarl.europa.eu,zsuzsanna.borvendeg@europarl.europa.eu,david.mcallister@europarl.europa.eu,alexander.jungbluth@europarl.europa.eu,rada.laykova@europarl.europa.eu,lubos.blaha@europarl.europa.eu,michael.vonderschulenburg@europarl.europa.eu?subject=Request%20for%20Clarification%20Regarding%20Your%20Vote%20on%20the%20IRGC%20Terror%20Listing&body=Dear%20Member%20of%20the%20European%20Parliament,%0D%0A%0D%0AI%20am%20writing%20to%20you%20as%20a%20concerned%20citizen%20who%20closely%20follows%20the%20work%20of%20the%20European%20Parliament%20and%20deeply%20values%20its%20commitment%20to%20human%20rights,%20democratic%20principles,%20and%20the%20rule%20of%20law.%0D%0A%0D%0AIt%20has%20come%20to%20my%20attention%20that%20you%20voted%20against%20the%20proposal%20to%20designate%20the%20Islamic%20Revolutionary%20Guard%20Corps%20(IRGC)%20as%20a%20terrorist%20organization.%20Given%20the%20seriousness%20of%20this%20matter%20and%20its%20implications%20for%20human%20rights%20and%20regional%20stability,%20I%20respectfully%20request%20clarification%20regarding%20your%20position.%0D%0A%0D%0AI%20fully%20acknowledge%20that%20Members%20of%20the%20European%20Parliament%20often%20weigh%20complex%20legal,%20political,%20and%20diplomatic%20considerations.%20For%20this%20reason,%20I%20would%20appreciate%20it%20if%20you%20could%20outline%20the%20key%20arguments%20or%20constraints%20that%20led%20you%20to%20oppose%20this%20designation.%0D%0A%0D%0AFor%20many%20observers,%20including%20myself,%20the%20IRGC%E2%80%99s%20documented%20involvement%20in%20killing%20Iranian%20civilians,%20violent%20domestic%20repression,%20external%20military%20operations,%20and%20support%20for%20armed%20groups%20raises%20grave%20concerns.%20A%20transparent%20explanation%20of%20how%20these%20realities%20were%20weighed%20would%20be%20greatly%20appreciated.%0D%0A%0D%0AI%20ask%20this%20question%20in%20a%20spirit%20of%20respect%20and%20dialogue,%20and%20with%20the%20hope%20that%20openness%20and%20accountability%20will%20continue%20to%20guide%20the%20relationship%20between%20elected%20representatives%20and%20the%20public%20they%20serve.%0D%0A%0D%0AYours%20sincerely,%0D%0A[Your%20Name])
 
 ---
 
-## گزینه ۱ – کوتاه ولی قاطع (Spam-safe)
-
-[📧 ارسال ایمیل – نسخه کوتاه](mailto:brian@masspeaceaction.org,cole@masspeaceaction.org?subject=Serious%20Concerns%20Regarding%20Upcoming%20Panel&body=Dear%20Brian%20and%20Cole,%0D%0A%0D%0AI%20am%20writing%20to%20express%20serious%20concerns%20regarding%20the%20upcoming%20panel%20discussion%20titled%20%E2%80%9CIran,%20the%20US,%20and%20Israel:%20How%20Did%20We%20Get%20Here?%E2%80%9D.%0D%0A%0D%0AThe%20inclusion%20of%20speakers%20such%20as%20Jamal%20Abdi%20(President%20of%20NIAC),%20Negar%20Mortazavi,%20and%20Stephen%20Kinzer%20has%20caused%20deep%20concern%20among%20many%20Iranians.%0D%0A%0D%0ANIAC%20is%20widely%20viewed%20as%20being%20aligned%20with%20the%20structure%20and%20interests%20of%20the%20Islamic%20Republic,%20and%20its%20leadership%20is%20not%20seen%20as%20representing%20the%20Iranian%20people%20or%20their%20demands.%0D%0A%0D%0AGiven%20the%20mass%20violence%20and%20loss%20of%20life%20Iranians%20have%20experienced,%20many%20believe%20this%20event%20should%20not%20be%20held%20in%20its%20current%20form.%0D%0A%0D%0ASincerely,%0D%0A[Your%20Name])
-
----
-
-## گزینه ۲ – متعادل ولی شفاف (پیشنهاد اصلی کمپین)
-
-[📧 ارسال ایمیل – نسخه متعادل](mailto:brian@masspeaceaction.org,cole@masspeaceaction.org?subject=Request%20to%20Cancel%20Upcoming%20Panel%20Discussion&body=Dear%20Brian%20and%20Cole,%0D%0A%0D%0AI%20am%20writing%20to%20express%20grave%20concerns%20regarding%20the%20upcoming%20panel%20discussion%20titled%20%E2%80%9CIran,%20the%20US,%20and%20Israel:%20How%20Did%20We%20Get%20Here?%E2%80%9D.%0D%0A%0D%0AThe%20invited%20speakers,%20including%20Jamal%20Abdi%20(President%20of%20NIAC),%20Negar%20Mortazavi,%20and%20Stephen%20Kinzer,%20have%20raised%20serious%20concerns%20within%20the%20Iranian%20community.%0D%0A%0D%0ANIAC%20is%20widely%20understood%20to%20be%20aligned%20with%20the%20structure%20and%20interests%20of%20the%20Islamic%20Republic.%20Many%20Iranians%20do%20not%20consider%20NIAC%20or%20its%20leadership%20to%20represent%20the%20Iranian%20people,%20their%20demands,%20or%20their%20suffering.%0D%0A%0D%0AGiven%20the%20mass%20killings%20and%20severe%20repression%20that%20have%20taken%20place%20in%20Iran,%20hosting%20this%20panel%20with%20these%20speakers%20is%20deeply%20troubling.%20Many%20believe%20this%20event%20should%20not%20be%20held%20under%20any%20circumstances.%0D%0A%0D%0ARespectfully,%0D%0A[Your%20Name])
+## 📌 نکات مهم
+- لطفاً فقط **یک بار** ایمیل را ارسال کنید  
+- در صورت امکان، **نام خود را در انتهای ایمیل** اضافه کنید  
+- از فوروارد کردن ایمیل آماده خودداری کنید (برای کاهش اسپم)
 
 ---
 
-## گزینه ۳ – مفصل و بسیار شفاف (برای کسانی که می‌خواهند قاطع‌تر باشند)
-
-[📧 ارسال ایمیل – نسخه مفصل](mailto:brian@masspeaceaction.org,cole@masspeaceaction.org?subject=Objection%20to%20Upcoming%20Panel%20Discussion&body=Dear%20Brian%20and%20Cole,%0D%0A%0D%0AI%20am%20writing%20to%20formally%20object%20to%20the%20upcoming%20panel%20discussion%20titled%20%E2%80%9CIran,%20the%20US,%20and%20Israel:%20How%20Did%20We%20Get%20Here?%E2%80%9D.%0D%0A%0D%0AThe%20participation%20of%20speakers%20such%20as%20Jamal%20Abdi%20(President%20of%20NIAC),%20Negar%20Mortazavi,%20and%20Stephen%20Kinzer%20has%20caused%20serious%20alarm%20among%20many%20Iranians.%0D%0A%0D%0ANIAC%20is%20widely%20regarded%20as%20being%20aligned%20with%20the%20structure%20and%20political%20interests%20of%20the%20Islamic%20Republic.%20Its%20leadership%20is%20not%20seen%20as%20representing%20the%20Iranian%20people,%20nor%20has%20it%20been%20perceived%20as%20standing%20with%20victims%20of%20the%20mass%20violence%20and%20killings%20that%20have%20occurred.%0D%0A%0D%0AGiven%20these%20realities,%20many%20believe%20this%20event%20lacks%20legitimacy%20and%20should%20not%20be%20held%20under%20any%20circumstances.%0D%0A%0D%0ASincerely,%0D%0A[Your%20Name])
+## 🔗 لینک این کمپین
+می‌توانید این صفحه را مستقیماً با دیگران به اشتراک بگذارید:
