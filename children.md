@@ -1,67 +1,53 @@
 # 🛑 Stop Violence Against Children in Iran
 
-This repository supports urgent international action against violence, killing, arbitrary detention, and abuse of children and adolescents in Iran.
-
-Iran ratified the **UN Convention on the Rights of the Child (CRC)** in 1994, yet continues to violate its obligations.
+👉 **[Send the email now](mailto:crc@ohchr.org,iran@ohchr.org,sr-child@ohchr.org,sr-torture@ohchr.org,urgent-action@ohchr.org,info@amnesty.org,hrwpress@hrw.org,info@unicef.org?subject=URGENT:%20Stop%20violence%20against%20children%20in%20Iran)**
 
 ---
 
-## ✉️ Take Action – Send One Email
+## Email addresses (copy if needed)
 
-👉 **[Click here to send an urgent appeal email](#send-email)**
-
----
-
-## 🧒 Why This Matters
-
-Children in Iran are being:
-- Killed or violently assaulted  
-- Arbitrarily arrested and detained  
-- Subjected to forced confessions  
-- Denied protection under international law  
-
-Every email increases international pressure.
-
-✊ **Speak up for children in Iran.**
+crc@ohchr.org  
+iran@ohchr.org  
+sr-child@ohchr.org  
+sr-torture@ohchr.org  
+urgent-action@ohchr.org  
+info@amnesty.org  
+hrwpress@hrw.org  
+info@unicef.org  
 
 ---
 
-## 📩 Send Email
+## Email subject
 
-[Send Urgent Appeal Email][send-email]
-
----
-
-## 📝 Email Content (pre-filled)
-
-**Recipients (To):**  
-crc@ohchr.org, iran@ohchr.org, sr-child@ohchr.org, sr-torture@ohchr.org, urgent-action@ohchr.org, info@amnesty.org, hrwpress@hrw.org, info@unicef.org
-
-**Subject:**  
 URGENT: Stop violence against children in Iran
 
-**Body:**
+---
+
+## Email body (copy & paste)
 
 Dear Members of the Committee on the Rights of the Child,
 
 We urgently call on the international community to take immediate action to stop violence against children in Iran.
 
-The killing of children, the use of excessive force by state security forces, and the arrest and detention of children and adolescents constitute a clear and serious violation of the Convention on the Rights of the Child.
+The killing of children, the use of excessive force by state security forces, and the arrest and detention of children and adolescents in Iran constitute a clear and serious violation of the fundamental principles of child rights, Iran’s own domestic laws, and its international obligations, including the Convention on the Rights of the Child (CRC).
 
-The Convention emphasizes protection, care, and restorative approaches toward children, and explicitly rejects punitive, coercive, and criminal treatment of minors. Iran’s actions stand in direct contradiction to these principles, despite having ratified the CRC in 1994.
+The Convention on the Rights of the Child emphasizes the obligation of states to protect children, ensure their care, and apply rehabilitative and restorative approaches when dealing with children, while explicitly rejecting punitive, coercive, and criminal approaches toward minors. The violent, repressive, and punitive treatment of children by Iranian authorities is in direct contradiction to these principles.
 
-Through this email, we formally submit a complaint and call for urgent international investigation and intervention.
+The Iranian government has demonstrated a complete lack of commitment to respecting the basic human rights of children within its own society. This is despite the fact that Iran signed and ratified the Convention on the Rights of the Child in 1994, alongside 193 other countries, under the auspices of the United Nations.
 
-We respectfully urge you to:
-- Publicly condemn all forms of violence against children in Iran  
-- Demand the immediate and unconditional release of all detained children and adolescents  
-- Hold Iranian authorities accountable for violations of international law  
+Through this communication, we formally submit our complaint to the United Nations Committee on the Rights of the Child and call for urgent international investigation and intervention.
 
-Silence enables further abuse. Please act urgently.
+We respectfully request that the Committee:
+
+Publicly condemn all forms of violence against children in Iran,
+
+Investigate the killing, arrest, and ill-treatment of children and adolescents,
+
+Demand the immediate and unconditional release of all detained children and juveniles in Iran,
+
+Hold Iranian authorities accountable for their violations of the Convention on the Rights of the Child.
+
+Silence in the face of violence against children enables further abuse. We urge you to act swiftly and decisively to protect the lives, dignity, and rights of children in Iran.
 
 Sincerely,  
 A child rights advocate
-
----
-
-[send-email]: mailto:crc@ohchr.org,iran@ohchr.org,sr-child@ohchr.org,sr-torture@ohchr.org,urgent-action@ohchr.org,info@amnesty.org,hrwpress@hrw.org,info@unicef.org?subject=URGENT%3A%20Stop%20violence%20against%20children%20in%20Iran
